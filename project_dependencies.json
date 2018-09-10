@@ -1,0 +1,11 @@
+[ {
+  "name" : "default",
+  "version" : "5.6",
+  "artifactType" : "THEME",
+  "artifactDependencyList" : null
+}, {
+  "name" : "Dep1",
+  "version" : "1.0",
+  "artifactType" : "PREFAB",
+  "artifactDependencyList" : null
+} ]
